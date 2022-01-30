@@ -5,15 +5,13 @@
  
  ## Installation
  
- 1. railway
+ ### Via **railway.app**
  
  Railway Button :
 
+// Button Here
  
- 
- // Button Here
- 
- 2. On-premise
+ ### Via On-premise
  
  **Soon**
  
