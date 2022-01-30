@@ -14,4 +14,3 @@
  ### Via On-premise
  
  **Soon**
- 
